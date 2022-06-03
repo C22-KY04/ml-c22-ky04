@@ -1,0 +1,16 @@
+kota
+tempat
+jenis
+gol
+alamat
+rtrw
+keldesa
+kecamatan
+agama
+status
+berlaku
+tempattgl
+nik
+nama
+lahir
+jenis
