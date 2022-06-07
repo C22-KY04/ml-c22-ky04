@@ -72,3 +72,10 @@ x
 y
 z
 kewarganegaraan
+jawa
+-
+daerah
+pedagang
+karyawan swasta
+pelajarmahasiswa
+surabaya
